@@ -1,0 +1,11 @@
+Need to check for the requirements for laoding the apps 
+
+The requirments 
+
+npm install
+
+
+npm run dev
+
+
+
