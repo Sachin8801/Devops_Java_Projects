@@ -38,5 +38,13 @@ export const books = [
     genres: ["fantasy", "adventure", "classic"],
     rating: 4.6,
     year: 1937
-  }
+  },
+  {
+    id: 6,
+    title: "IT by Design",
+    author: "Shelby Singh",
+    genres: ["dystopian"],
+    rating: 4.0,
+    year: 2022
+  },
 ];
